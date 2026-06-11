@@ -1,106 +1,229 @@
-# HR Analytics Dashboard (Power BI)
+**📊 HR Analytics Dashboard | Power BI**
 
-## Project Overview
-This project is an interactive HR Analytics Dashboard developed in Power BI to help HR teams and management monitor workforce trends, employee attrition, and key HR metrics. The dashboard provides actionable insights into employee demographics, attrition patterns, department performance, and workforce distribution.
+**🚀 Project Summary**
 
----
+The HR Analytics Dashboard is an interactive Business Intelligence solution built using Power BI to analyze employee attrition, workforce demographics, and organizational performance metrics. The dashboard enables HR professionals and business leaders to identify workforce trends, improve retention strategies, and make data-driven decisions.
 
-## Objectives
-- Track overall employee count and workforce distribution.
-- Analyze employee attrition and retention trends.
-- Identify departments with higher attrition rates.
-- Understand attrition by gender, salary slab, and job role.
-- Support data-driven HR decision-making.
+**🎯 Business Problem**
 
----
-
-## Dashboard Features
-
-### KPI Cards
-- Total Employees
-- Active Employees
-- Attrition Count
-- Attrition Rate %
-
-### Attrition Analysis
-- Attrition by Department
-- Attrition by Gender
-- Attrition by Salary Slab
-- Attrition by Job Role & Satisfaction
-- Attrition Trend by Experience
-
-### Workforce Insights
-- Department-wise Employee Count
-- Employee Distribution Analysis
-- Workforce Demographics Overview
-
----
-
-## Business Questions Answered
-1. What is the overall employee attrition rate?
-2. Which department experiences the highest attrition?
-3. How does attrition vary across salary ranges?
-4. What is the relationship between job satisfaction and attrition?
-5. Which employee groups require retention strategies?
-6. How is the workforce distributed across departments?
-
----
-
-## Tools & Technologies
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Data Visualization
-
----
-
-## Key Insights
-- Identifies high-risk departments with increased employee turnover.
-- Highlights salary segments with higher attrition rates.
-- Helps HR teams improve employee retention strategies.
-- Enables management to monitor workforce health through interactive visualizations.
-
----
-
-## Skills Demonstrated
-- Data Cleaning & Transformation
-- Data Modeling
-- DAX Calculations
-- KPI Development
-- Dashboard Design
-- Business Intelligence Reporting
-- Data Visualization & Storytelling
-
----
-
-## Dashboard Preview
-<img width="1392" height="749" alt="Screenshot 2026-05-30 230649" src="https://github.com/user-attachments/assets/dd11c863-99b2-408a-a25c-5f26af5ecd2c" />
+Employee attrition can significantly impact organizational productivity, hiring costs, and team performance. This project aims to uncover key factors influencing employee turnover and provide actionable insights to improve employee retention and workforce planning.
 
 
-## Repository Structure
 
-```text
+**📌 Key Objectives**
+
+Monitor overall workforce performance and employee distribution.
+
+Analyze employee attrition across departments and job roles.
+
+Identify factors contributing to employee turnover.
+
+Evaluate the relationship between salary, job satisfaction, and attrition.
+
+Support strategic HR decision-making through interactive visualizations.
+
+
+
+**📈 Dashboard Highlights**
+
+Executive KPIs
+
+Total Employees
+
+Active Employees
+
+Attrition Count
+
+Attrition Rate (%)
+
+Attrition Analysis
+
+Department-wise Attrition
+
+Gender-wise Attrition Distribution
+
+Attrition by Salary Slab
+
+Job Role vs Attrition Analysis
+
+Job Satisfaction Impact on Attrition
+
+Experience-wise Attrition Trends
+
+Workforce Analytics
+
+Department-wise Employee Count
+
+Workforce Demographics Overview
+
+Employee Distribution by Business Units
+
+Organizational Workforce Breakdown
+
+
+
+**❓ Business Questions Answered**
+
+Workforce Overview
+
+How many employees are currently active?
+
+What is the overall attrition rate?
+
+How is the workforce distributed across departments?
+
+Attrition Insights
+
+Which department experiences the highest employee turnover?
+
+Which salary brackets have the highest attrition rates?
+
+How does attrition vary by gender?
+
+Which job roles are most affected by attrition?
+
+Employee Retention
+
+Does job satisfaction influence employee attrition?
+
+Which employee segments are at higher risk of leaving?
+
+What retention strategies should management prioritize?
+
+
+
+**🛠️ Technology Stack**
+
+Tool	Purpose
+
+Power BI	Dashboard Development
+
+Power Query	Data Cleaning \& Transformation
+
+DAX	KPI \& Business Calculations
+
+Data Modeling	Relationship Management
+
+Data Visualization	Insight Generation
+
+
+
+**📊 Key Insights**
+
+✅ Identified departments with the highest employee turnover.
+
+✅ Highlighted salary groups with elevated attrition rates
+
+✅ Revealed the relationship between employee satisfaction and retention.
+
+✅ Enabled HR teams to monitor workforce health using real-time KPIs.
+
+✅ Supported data-driven workforce planning and retention strategies.
+
+**💡 Skills Demonstrated**
+
+Data Analytics
+
+Data Cleaning
+
+Data Transformation
+
+Exploratory Data Analysis (EDA)
+
+Power BI Development
+
+Data Modeling
+
+DAX Measures \& Calculated Columns
+
+Interactive Dashboard Design
+
+KPI Development
+
+Business Intelligence
+
+HR Analytics
+
+Workforce Analysis
+
+Attrition Analysis
+
+Executive Reporting
+
+Data Storytelling
+
+
+
+**📸 Dashboard Preview**
+<img width="1392" height="749" alt="Screenshot 2026-05-30 230649" src="https://github.com/user-attachments/assets/0d05dfa0-f358-4e4a-88ce-6d9472bc0e50" />
+
+**Add your dashboard screenshot here:**
+
+📂 Repository Structure
+
 HR-Analytics-Dashboard/
+
 │
-├── HR analytices project.pbix
+├── HR Analytics Dashboard.pbix
 ├── README.md
-├── images/
-│   └── dashboard-screenshot.png
-└── dataset/
-```
+│
+├── Dataset/
+│   └── HR\_Analytics.csv
+│
+├── Images/
+│   └── hr-dashboard.png
+│
+└── Documentation/
 
----
+&#x20;   └── Project\_Report.pdf
 
-## How to Use
-1. Download the `.pbix` file.
-2. Open it using Power BI Desktop.
-3. Refresh the dataset if required.
-4. Explore the interactive visuals and filters.
+**▶️ Getting Started**
 
----
+Prerequisites
 
-## Author
-**Sunil Kumar Kambar**
+Power BI Desktop
 
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
+Installation
+
+Clone the repository:
+
+git clone https://github.com/yourusername/HR-Analytics-Dashboard.git
+
+Open the .pbix file in Power BI Desktop.
+
+Refresh the dataset if required.
+
+Explore the dashboard using interactive filters and slicers.
+
+
+
+**📈 Project Impact**
+
+This dashboard helps organizations:
+
+Reduce employee turnover.
+
+Improve workforce planning.
+
+Enhance employee engagement.
+
+Monitor key HR performance indicators.
+
+Drive strategic HR decisions through analytics.
+
+
+
+**👨‍💻 Author**
+
+Sunil Kumar Kambar
+
+**📊 Data Analyst | 📈 Power BI Developer | 🐍 Python | 🗄️ SQL | 📑 Excel**
+
+Passionate about transforming raw data into meaningful business insights through analytics, visualization, and storytelling.
+
+**Connect With Me**
+
+LinkedIn: www.linkedin.com/in/sunil-kumar-kambar
+
+GitHub: github.com/Sunilkumar-Kambar
+
